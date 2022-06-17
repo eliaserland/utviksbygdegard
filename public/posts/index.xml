@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inlägg on Utviks Bygdegårdsförening</title>
+    <link>/posts/</link>
+    <description>Recent content in Inlägg on Utviks Bygdegårdsförening</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <copyright>Utviks Bygdegårdsförening</copyright>
+    <lastBuildDate>Thu, 16 Jun 2022 22:24:42 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hallå Världen!</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Thu, 16 Jun 2022 22:24:42 +0200</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>Detta är en rubrik # Detta är lite brödtext.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+article:
+  anchor_label: "Ankare"
+  date: "{{ .Date }}"
+  date_updated: "Uppdaterad: {{ .Date }}"
+  draft: "Utkast"
+  edit_title: "Ändra innehåll"
+  reading_time:
+    one: "{{ .Count }} minut"
+    other: "{{ .Count }} minuter"
+  reading_time_title: "Uppskattad lästid"
+  table_of_contents: "Innehållsförteckning"
+  word_count:
+    one: "{{ .Count }} ord"
+    other: "{{ .Count }} ord"
+
+author:
+  byline_title: "Författare"
+
+code:
+  copy: "Kopiera"
+  copied: "Kopierade"
+
+error:
+  404_title: "Sidan hittades inte :confused:"
+  404_error: "Error 404"
+  404_description: "Det verkar som att sidan du frågade efter finns inte."
+
+footer:
+  dark_appearance: "Växla till mörkt läge"
+  light_appearance: "Växla till ljust läge"
+  powered_by: "Powered by {{ .Hugo }}, {{ .Congo }} &amp; {{ .Netlify }}"
+
+list:
+  externalurl_title: "Länk till extern sida"
+  no_articles: "Det finns inga artiklar att visa här ännu."
+
+nav:
+  scroll_to_top_title: "Skrolla upp"
+  skip_to_main: "Hoppa till huvudinnehåll"
+
+search:
+  open_button_title: "Sök (/)"
+  close_button_title: "Stäng (Esc)"
+  input_placeholder: "Sök efter innehåll"
+
+sharing:
+  email: "Skicka via email"
+  facebook: "Dela på Facebook"
+  linkedin: "Dela på LinkedIn"
+  pinterest: "Pin på Pinterest"
+  reddit: "Dela till Reddit"
+  twitter: "Twittra på Twitter"
+
+shortcode:
+  recent_articles: "Senaste inläggen"
