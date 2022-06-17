@@ -1,10 +1,6 @@
 ---
 title: "Inlägg"
 description: "Senaste inläggen och nyheter från bygdegårdsföreningen."
-
-cascade:
-  showEdit: true
-  showSummary: true
 ---
 
 {{< lead >}}

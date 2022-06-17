@@ -5,7 +5,7 @@ draft: false
 author: "Elias Olofsson"
 ---
 
-# Detta är en rubrik
+# Rubrik
 
 Detta är lite brödtext. 
 
