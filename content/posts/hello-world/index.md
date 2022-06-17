@@ -9,8 +9,6 @@ author: "Elias Olofsson"
 
 Detta är lite brödtext. 
 
-![A stylised photograph of a purple squid](kollo2.jpg "This is a caption.")
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. Nullam lacus sapien, iaculis at metus nec, faucibus laoreet turpis. Phasellus faucibus rhoncus justo, a auctor leo aliquam nec. Nulla bibendum lacus vitae dolor dictum, et efficitur lorem sollicitudin. Quisque a libero placerat turpis accumsan laoreet id at purus. Sed ut tortor non neque ullamcorper mattis ac quis enim. Ut egestas urna sed risus consequat, sed tempor ipsum mattis.
 
 Suspendisse vitae ornare erat. Aliquam tempus eros eu sollicitudin tristique. Aenean ac tellus consectetur, ultricies enim eu, posuere elit. Vestibulum nunc nisl, molestie et auctor volutpat, scelerisque et ligula. Etiam purus sapien, semper quis rutrum lobortis, pellentesque eget tellus. Mauris rhoncus massa at urna volutpat lacinia. Aliquam laoreet sem urna, sed condimentum felis maximus vel. Duis nec bibendum ante. Fusce convallis posuere tellus, a pretium nulla. Curabitur consequat ex vitae gravida tristique.
