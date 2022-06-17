@@ -13,6 +13,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. 
 Program 2022
 {{< /button >}}
 
+![Nedsidan av bygdegården i soligt väder.](skolan_nedsida.jpg "Bygdegården från nedsidan. Foto av Kent Olofsson.")
+
 ---
 
 
