@@ -1,11 +1,12 @@
 ---
-title: "Om föreningen"
-description: "Allmän information och historia kring bygdegårdsföreningen."
+title: Om oss
+description: Allmän information och historia kring bygdegårdsföreningen.
 groupByYear: false
-cascade: 
-    showDate: false
-    showEdit: true
-    invertPagination: true
+cascade:
+  showDate: false
+  showEdit: true
+  invertPagination: true
+date: 2022-06-18T16:54:15.362Z
 ---
 
 {{< lead >}}
