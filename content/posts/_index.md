@@ -1,6 +1,7 @@
 ---
-title: "Inlägg"
-description: "Senaste inläggen och nyheter från bygdegårdsföreningen."
+title: Inlägg
+date: 2022-06-18T16:48:53.003Z
+description: Senaste inläggen och nyheter från bygdegårdsföreningen.
 ---
 
 {{< lead >}}
