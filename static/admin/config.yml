@@ -5,7 +5,8 @@ media_folder: static/img
 public_folder: /img
 collections:
   - name: 'posts'
-    label: 'Post'
+    label: 'Blogginlägg'
+    label_singular: 'Blogginlägg'
     folder: 'content/posts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
