@@ -7,7 +7,7 @@ description: "Hemsida för Utviks Bygdegårdsförening"
 Utviks Bygdegård, mitt i världsarvet Höga Kusten.
 {{< /lead >}}
 
-{{< screenshot src="skolan_small.jpg" alt="Vacker sommardag vid bygdegården." caption="Foto av Kent Olofsson">}}
+![Vacker sommardag vid bygdegården](skolan_small.jpg "Foto av Kent Olofsson")
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. Nullam lacus sapien, iaculis at metus nec, faucibus laoreet turpis. Phasellus faucibus rhoncus justo, a auctor leo aliquam nec. Nulla bibendum lacus vitae dolor dictum, et efficitur lorem sollicitudin. Quisque a libero placerat turpis accumsan laoreet id at purus. Sed ut tortor non neque ullamcorper mattis ac quis enim. Ut egestas urna sed risus consequat, sed tempor ipsum mattis.
 
