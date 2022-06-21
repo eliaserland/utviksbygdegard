@@ -1,6 +1,7 @@
 ---
 title: "Välkommen! :tada:"
 description: "Hemsida för Utviks Bygdegårdsförening"
+layout: "simple"
 ---
 
 {{< lead >}}
