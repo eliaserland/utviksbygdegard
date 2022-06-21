@@ -16,4 +16,3 @@ Program 2022
 
 ![Vacker sommardag vid bygdegården](skolan_small.jpg "Foto av Kent Olofsson")
 
----
