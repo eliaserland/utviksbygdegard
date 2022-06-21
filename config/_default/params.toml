@@ -16,7 +16,7 @@ enableCodeCopy = false
 attribution = true
 
 mainSections = ["posts"]
-robots = "all"
+robots = ""
 showScrollToTop = true
 
 [homepage]
