@@ -33,6 +33,6 @@ collections:
 
 # This line should *not* be indented
 publish_mode: editorial_workflow
-site_url: https://utviksbygdegard.se/
-display_url: https://utviksbygdegard.se/
+site_url: https://utviksbygdegard.se
+display_url: https://utviksbygdegard.se
 locale: 'sv'
