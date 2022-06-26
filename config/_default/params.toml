@@ -17,7 +17,7 @@ attribution = false
 
 mainSections = ["posts"]
 robots = ""
-showScrollToTop = true
+showScrollToTop = false
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
