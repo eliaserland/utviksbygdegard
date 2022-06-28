@@ -8,7 +8,6 @@
 colorScheme = "avocado" # "congo" (default), "avocado", "ocean", "fire", "slate"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
-showAppearanceSwitcher = true
 
 enableSearch = true
 enableCodeCopy = false
@@ -17,7 +16,10 @@ attribution = false
 
 mainSections = ["nyheter"]
 # robots = ""
-showScrollToTop = false
+
+[footer]
+  showAppearanceSwitcher = true
+  showScrollToTop = false
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
