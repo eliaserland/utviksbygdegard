@@ -10,7 +10,7 @@ Senaste händelserna vid Utviks bygdegård
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. Nullam lacus sapien, iaculis at metus nec, faucibus laoreet turpis. Phasellus faucibus rhoncus justo, a auctor leo aliquam nec.
 
-{{< button href="/about/upcoming/" target="_self" >}}
+{{< button href="/om-oss/kommande-evenemang" target="_self" >}}
 Program 2022
 {{< /button >}}
 

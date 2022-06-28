@@ -16,11 +16,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. 
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
     <span class="prose dark:prose-invert">Missa inte årets planerade aktiviteter.</span>
-    {{< button href="about/upcoming/" target="_self" >}}
+    {{< button href="/om-oss/kommande-evenemang" target="_self" >}}
     Program 2022
     {{< /button >}}
   </span>
 </div>
 
-![Vacker sommardag vid bygdegården](skolan.jpg "Foto av Kent Olofsson")
+![Vacker sommardag vid bygdegården](/img/skolan_small.jpg "Foto av Kent Olofsson")
 

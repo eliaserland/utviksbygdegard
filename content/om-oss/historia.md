@@ -1,7 +1,7 @@
 ---
 title: "Historia"
 date: 2022-01-14
-draft: true
+draft: false
 ---
 
 {{< lead >}}
