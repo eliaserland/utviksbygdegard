@@ -12,18 +12,18 @@
 
 [[main]]
   name = "Nyheter"
-  title = "Blogginlägg"
-  pageRef = "posts"
+  title = "Nyhetsinlägg"
+  pageRef = "nyheter"
   weight = 10
 
 [[main]]
   name = "Om oss"
-  pageRef = "about"
+  pageRef = "om-oss"
   weight = 15
 
 [[main]]
   name = "Kontakt"
-  pageRef = "contact"
+  pageRef = "kontakt"
   weight = 20
 
 # -- Footer Menu --
@@ -42,7 +42,7 @@
 
 #[[footer]]
 #  name = "Kontakt"
-#  pageRef = "contact"
+#  pageRef = "kontakt"
 #  weight = 30
 
 # [[footer]]
