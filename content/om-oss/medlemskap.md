@@ -4,12 +4,8 @@ date: 2022-01-13
 draft: false
 ---
 
-{{< lead >}}
-Hur blir man medlem i föreningen?
-{{< /lead >}}
+Stöd Utviks bygdegårdsförening genom att swisha 50 kr till 070-#######. Märk betalningen genom att skriva "Medlem" samt namn.
 
-- fördelar med medlemskap
-- swish-instruktioner: nummer, summa och ev. kommentar
 
 
 
