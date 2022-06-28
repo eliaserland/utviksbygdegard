@@ -8,7 +8,7 @@ rtl = false
 title = "Utviks Bygdegårdsförening"
 #logo = "img/logo.jpg"
 description = "Utviks Bygdegårdsförening, mitt i världsarvet Höga Kusten"
-copyright = "Utviks Bygdegårdsförening" 
+#copyright = "&copy; Utviks Bygdegårdsförening" 
 
 dateFormat = "2 January 2006"
 

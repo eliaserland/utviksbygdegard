@@ -1,6 +1,6 @@
 ---
 title: "Välkommen! :tada:"
-description: "Hemsida för Utviks Bygdegårdsförening"
+description: "Hemsida för Utviks Bygdegårdsförening."
 layout: "single"
 ---
 
@@ -8,7 +8,7 @@ layout: "single"
 Utviks Bygdegård, mitt i världsarvet Höga Kusten.
 {{< /lead >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. Nullam lacus sapien, iaculis at metus nec, faucibus laoreet turpis. Phasellus faucibus rhoncus justo, a auctor leo aliquam nec. Nulla bibendum lacus vitae dolor dictum, et efficitur lorem sollicitudin.
+Bygdegårdsföreningen i Utvik värnar om hembygden och strävar efter att hålla den öppen, levande och tillgänglig för alla. Vi anordnar vanligtvis ett antal aktiviteter och evenmang varje år, såsom gudstjänster, café med livemusik samt en traditionsenlig surströmmingsfest. Varmt välkommen att bli en del av gemenskapen i din hembygd!
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
@@ -22,5 +22,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. 
   </span>
 </div>
 
-![Vacker sommardag vid bygdegården](skolan_small2.jpg "Foto av Kent Olofsson")
+![Vacker sommardag vid bygdegården](img/skolan_small.jpg "Utviks bygdegård, belägen vid Norafjärden i världsarvet Höga Kusten. Foto av Kent Olofsson.")
 

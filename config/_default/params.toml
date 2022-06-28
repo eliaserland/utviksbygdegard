@@ -12,12 +12,15 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = false
 
-attribution = false
-
 mainSections = ["nyheter"]
 # robots = ""
 
+[header]
+  layout = "basic" # valid options: basic, hamburger, custom
+
 [footer]
+  showCopyright = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = false
 

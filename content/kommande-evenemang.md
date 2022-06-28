@@ -1,6 +1,6 @@
 ---
 title: "Kommande aktiviteter"
-date: 2022-01-15
+date: 2022-06-28
 draft: false
 ---
 
