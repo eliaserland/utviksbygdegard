@@ -4,10 +4,10 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'posts'
+  - name: 'nyheter'
     label: 'Nyheter'
     label_singular: 'artikel'
-    folder: 'content/posts'
+    folder: 'content/nyheter'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -17,10 +17,10 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'about'
+  - name: 'om-oss'
     label: 'Om oss'
     label_singular: 'sida'
-    folder: 'content/about'
+    folder: 'content/om-oss'
     create: true
     slug: '{{slug}}'
     editor:

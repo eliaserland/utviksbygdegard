@@ -7,7 +7,7 @@
 
 colorScheme = "avocado" # "congo" (default), "avocado", "ocean", "fire", "slate"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 showAppearanceSwitcher = true
 
 enableSearch = true
@@ -15,8 +15,8 @@ enableCodeCopy = false
 
 attribution = false
 
-mainSections = ["posts"]
-robots = ""
+mainSections = ["nyheter"]
+# robots = ""
 showScrollToTop = false
 
 [homepage]
