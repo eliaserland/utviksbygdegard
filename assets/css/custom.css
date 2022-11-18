@@ -1,0 +1,7 @@
+/* Change the default font */
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    font-size: larger;
+}
+
