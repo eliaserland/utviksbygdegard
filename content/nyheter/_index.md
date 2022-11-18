@@ -8,12 +8,3 @@ description: Senaste inläggen och nyheterna från bygdegårdsföreningen.
 Senaste händelserna vid Utviks bygdegård
 {{< /lead >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. Nullam lacus sapien, iaculis at metus nec, faucibus laoreet turpis. Phasellus faucibus rhoncus justo, a auctor leo aliquam nec.
-
-{{< button href="/kommande-evenemang" target="_self" >}}
-Program 2022
-{{< /button >}}
-
----
-
-

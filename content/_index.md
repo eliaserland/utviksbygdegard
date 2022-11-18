@@ -1,7 +1,6 @@
 ---
-title: "Välkommen! :tada:"
-description: "Hemsida för Utviks Bygdegårdsförening."
-layout: "single"
+title: Välkommen!
+description: Hemsida för Utviks Bygdegårdsförening.
 ---
 
 {{< lead >}}
