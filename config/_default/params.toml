@@ -21,7 +21,7 @@ mainSections = ["nyheter"]
 [footer]
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = false
 
 [homepage]
