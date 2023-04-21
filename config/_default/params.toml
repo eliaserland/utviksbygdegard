@@ -17,16 +17,18 @@ mainSections = ["nyheter"]
 
 [header]
   layout = "basic" # valid options: basic, hamburger, custom
+  showTitle = true
 
 [footer]
   showCopyright = true
-  showThemeAttribution = false
-  showAppearanceSwitcher = false
-  showScrollToTop = false
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, custom
+  layout = "page" # valid options: page, profile, custom
   showRecent = true
+  recentLimit = 5
 
 [article]
   showDate = true
@@ -44,6 +46,7 @@ mainSections = ["nyheter"]
   showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
+  showComments = false
   #sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]

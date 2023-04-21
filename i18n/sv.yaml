@@ -23,7 +23,7 @@ code:
 error:
   404_title: "Sidan hittades inte :confused:"
   404_error: "Error 404"
-  404_description: "Det verkar som att sidan du frågade efter finns inte."
+  404_description: "Sidan du efterfrågade finns inte."
 
 footer:
   dark_appearance: "Växla till mörkt läge"
