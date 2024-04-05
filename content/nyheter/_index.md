@@ -7,4 +7,3 @@ description: Senaste inläggen och nyheterna från bygdegårdsföreningen.
 {{< lead >}}
 Senaste händelserna vid Utviks bygdegård
 {{< /lead >}}
-
