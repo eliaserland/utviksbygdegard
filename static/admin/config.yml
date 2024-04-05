@@ -10,8 +10,6 @@ collections:
     folder: 'content/nyheter' # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-      clean_accents: true
-      encoding: ascii
     editor:
       preview: true
     fields: # The fields for each document, usually in front matter
@@ -42,7 +40,7 @@ site_url: https://utviksbygdegard.se
 display_url: https://utviksbygdegard.se
 locale: 'sv'
 
-# slug:
-#   encoding: "ascii"
-#   clean_accents: true
-#   sanitize_replacement: "_"
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
