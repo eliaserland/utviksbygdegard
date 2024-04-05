@@ -1,7 +1,8 @@
 ---
-title: "Kommande aktiviteter"
-date: 2024-04-05
+title: Kommande aktiviteter
+date: 2024-04-06T00:57:00+02:00
 draft: false
+description: Kommande aktiviteter vid bygdegården
 ---
 
 # Rubrik
