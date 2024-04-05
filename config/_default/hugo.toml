@@ -11,12 +11,9 @@ paginate = 10
 summaryLength = 0
 
 enableGitInfo = true
-
 [frontmatter]
-date = ["date", "publishDate", "lastmod"]
-lastmod = ["lastmod", ":git", "date", "publishDate"]
-publishDate = ["publishDate", "date"]
-expiryDate = ["expiryDate"]
+lastmod = ['lastmod', ':default']
+# lastmod = ['lastmod', ':fileModTime', ':default']
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
