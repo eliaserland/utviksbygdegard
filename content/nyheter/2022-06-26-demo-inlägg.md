@@ -1,7 +1,8 @@
 ---
 title: Demo-inlägg
-date: 2022-06-28T17:56:55.524Z
+date: 2024-04-05T15:33:00.000Z
 description: Detta är ett test av funtionaliteten av blogginlägg.
+thumbnail: /images/uploads/skolan.jpg
 ---
 
 Detta är lite brödtext.
