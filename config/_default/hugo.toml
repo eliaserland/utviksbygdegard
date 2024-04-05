@@ -11,6 +11,7 @@ paginate = 10
 summaryLength = 0
 
 enableGitInfo = true
+
 [frontmatter]
 date = ["date", "publishDate", "lastmod"]
 lastmod = ["lastmod", ":git", "date", "publishDate"]
