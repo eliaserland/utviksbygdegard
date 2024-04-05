@@ -1,7 +1,7 @@
 # -- Main Menu --
 # The main menu is displayed in the header at the top of the page.
 # Acceptable parameters are name, pageRef, page, url, title, weight.
-# 
+#
 # The simplest menu configuration is to provide:
 #   name = The name to be displayed for this menu link
 #   pageRef = The identifier of the page or section to link to
@@ -11,20 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Nyheter"
-  title = "Nyhetsinlägg"
-  pageRef = "nyheter"
-  weight = 10
-
-[[main]]
-  name = "Om oss"
-  pageRef = "om-oss"
-  weight = 15
-
-[[main]]
-  name = "Kontakt"
-  pageRef = "kontakt"
-  weight = 20
+name = "Nyheter"
+pageRef = "nyheter"
+weight = 10
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
@@ -40,12 +29,12 @@
 #  pageRef = "tags"
 #  weight = 20
 
-#[[footer]]
-#  name = "Kontakt"
-#  pageRef = "kontakt"
-#  weight = 30
+[[footer]]
+name = "Om oss"
+pageRef = "om-oss"
+weight = 10
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+name = "Kontakt"
+pageRef = "kontakt"
+weight = 20

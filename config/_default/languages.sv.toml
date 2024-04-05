@@ -1,21 +1,18 @@
 languageCode = "sv"
 languageName = "Swedish"
-displayName = "SV"
-isoCode = "sv-SE"
+languageDirection = "ltr"
 weight = 1
-rtl = false
 
 title = "Utviks Bygdegårdsförening"
-#logo = "img/logo.jpg"
-description = "Utviks Bygdegårdsförening, mitt i världsarvet Höga Kusten"
-#copyright = "&copy; Utviks Bygdegårdsförening" 
 
-dateFormat = "2 January 2006"
+[params]
+  dateFormat = "2 January 2006"
+  description = "Utviks Bygdegårdsförening, mitt i världsarvet Höga Kusten"
 
-[author]
+[params.author]
   name = "Utviks Bygdegårdsförening"
   # image = "img/author.jpg"
-  headline = "Ansvarig utgivare"
+  # headline = "Ansvarig utgivare"
   # bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },

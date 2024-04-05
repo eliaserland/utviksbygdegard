@@ -3,11 +3,11 @@ article:
   date: "{{ .Date }}"
   date_updated: "Uppdaterad: {{ .Date }}"
   draft: "Utkast"
-  edit_title: "Ändra innehåll"
+  edit_title: "Redigera innehåll"
   reading_time:
     one: "{{ .Count }} minut"
     other: "{{ .Count }} minuter"
-  reading_time_title: "Uppskattad lästid"
+  reading_time_title: "Lästid"
   table_of_contents: "Innehållsförteckning"
   word_count:
     one: "{{ .Count }} ord"
@@ -23,33 +23,38 @@ code:
 error:
   404_title: "Sidan hittades inte :confused:"
   404_error: "Error 404"
-  404_description: "Sidan du efterfrågade finns inte."
+  404_description: "Den sida du har begärt finns inte."
 
 footer:
-  dark_appearance: "Växla till mörkt läge"
-  light_appearance: "Växla till ljust läge"
-  powered_by: "Powered by {{ .Hugo }}, {{ .Congo }} &amp; {{ .Netlify }}"
+  dark_appearance: "Byt till mörkt utseende"
+  light_appearance: "Byt till ljust utseende"
+  powered_by: "Drivs av {{ .Hugo }} &amp; {{ .Congo }}"
 
 list:
-  externalurl_title: "Länk till extern sida"
-  no_articles: "Det finns inga artiklar att visa här ännu."
+  externalurl_title: "Länk till extern webbplats"
+  no_articles: "Det finns inga artiklar att lista här ännu."
 
 nav:
-  scroll_to_top_title: "Skrolla upp"
+  scroll_to_top_title: "Scrolla till början"
   skip_to_main: "Hoppa till huvudinnehåll"
 
 search:
   open_button_title: "Sök (/)"
   close_button_title: "Stäng (Esc)"
-  input_placeholder: "Sök efter innehåll"
+  input_placeholder: "Sök"
 
 sharing:
-  email: "Skicka via email"
+  email: "Skicka via e-post"
   facebook: "Dela på Facebook"
   linkedin: "Dela på LinkedIn"
-  pinterest: "Pin på Pinterest"
-  reddit: "Dela till Reddit"
+  mastodon: "Dela på Mastodon"
+  pinterest: "Fäst på Pinterest"
+  reddit: "Publicera på Reddit"
   twitter: "Twittra på Twitter"
+  telegram: "Dela på Telegram"
+  line: "Dela på LINE"
+  weibo: "Dela på Weibo"
+  x-twitter: "Publicera på X"
 
 shortcode:
-  recent_articles: "Senaste inläggen"
+  recent_articles: "Senaste"
