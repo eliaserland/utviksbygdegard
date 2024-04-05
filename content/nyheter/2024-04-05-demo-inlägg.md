@@ -1,6 +1,6 @@
 ---
 title: Demo-inlägg
-date: 2024-04-03T18:41:00.000Z
+date: 2024-04-03T18:41:00+02:00
 description: Detta är ett test av funtionaliteten av blogginlägg.
 ---
 
@@ -23,3 +23,5 @@ Nunc tempor elit vel posuere molestie. Cras vulputate eleifend pretium. Praesent
 Nunc commodo, magna vel pellentesque vulputate, nunc nisl interdum augue, vitae ullamcorper lacus lacus quis mauris. In hac habitasse platea dictumst. Duis egestas quis lectus quis porta. Praesent posuere lectus et ultricies elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In gravida elementum venenatis. Aenean eget mauris ac justo vestibulum varius nec quis magna. Mauris sit amet augue imperdiet, dapibus lectus eget, auctor purus. Aliquam quis eros sodales, feugiat urna eu, volutpat purus.
 
 ![Nedsidan av bygdegården i soligt väder.](/images/uploads/skolan_nedsida.jpg "Bygdegården från nedsidan.")
+
+Här kommer lite extra text.
