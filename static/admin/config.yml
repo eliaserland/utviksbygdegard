@@ -43,4 +43,3 @@ locale: 'sv'
 slug:
   encoding: "ascii"
   clean_accents: true
-  sanitize_replacement: "_"
