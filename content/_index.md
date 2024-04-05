@@ -21,10 +21,4 @@ Bygdegårdsföreningen i Utvik värnar om hembygden kring Norafjärden och strä
   </span>
 </div>
 
-{{< figureFullWidth
-    src="images/uploads/skolan_small.jpg"
-    alt="Vacker sommardag vid bygdegården"
-    caption="Utviks bygdegård, belägen vid Norafjärden i världsarvet Höga Kusten."
-    >}}
-
-<!-- ![Vacker sommardag vid bygdegården](images/uploads/skolan_small.jpg "Utviks bygdegård, belägen vid Norafjärden i världsarvet Höga Kusten.") -->
+![Vacker sommardag vid bygdegården](images/uploads/skolan_small.jpg "Utviks bygdegård, belägen vid Norafjärden i världsarvet Höga Kusten.")
