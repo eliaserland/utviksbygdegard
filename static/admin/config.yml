@@ -14,7 +14,7 @@ collections:
       preview: true
     fields: # The fields for each document, usually in front matter
       - { label: 'Titel', name: 'title', widget: 'string' }
-      - { label: 'Publiceringsdatum', name: 'date', widget: 'datetime', date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: false}
+      - { label: 'Publiceringsdatum', name: 'date', widget: 'datetime', date_format: "YYYY-MM-DD", time_format: "HH:mm", picker_utc: true}
       - { label: 'Beskrivning', name: 'description', widget: 'string' }
       # - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: 'Brödtext', name: 'body', widget: 'markdown' }
