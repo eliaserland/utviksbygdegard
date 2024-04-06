@@ -16,7 +16,7 @@ enableImageWebp = true
 
 mainSections = ["nyheter"] # collections to include in showRecent on homepage
 
-robots = "all"
+# robots = ""
 fingerprintAlgorithm = "sha256"
 
 [header]
