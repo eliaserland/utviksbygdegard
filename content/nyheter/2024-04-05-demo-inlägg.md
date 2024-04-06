@@ -2,9 +2,9 @@
 title: Demo-inlägg
 date: 2024-04-03T18:41:00+02:00
 params.author.name: Elias Olofsson
+params.author: Elias
 description: Detta är ett test av funtionaliteten av blogginlägg.
 ---
-
 Detta är lite brödtext.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu fringilla nunc. Nullam lacus sapien, iaculis at metus nec, faucibus laoreet turpis. Phasellus faucibus rhoncus justo, a auctor leo aliquam nec. Nulla bibendum lacus vitae dolor dictum, et efficitur lorem sollicitudin.
@@ -26,3 +26,5 @@ Nunc commodo, magna vel pellentesque vulputate, nunc nisl interdum augue, vitae 
 ![Nedsidan av bygdegården i soligt väder.](/images/uploads/skolan_nedsida.jpg "Bygdegården från nedsidan.")
 
 Här kommer lite extra text.
+
+![](/images/uploads/skolan.jpg)
