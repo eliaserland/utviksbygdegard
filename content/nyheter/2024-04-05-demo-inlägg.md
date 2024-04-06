@@ -1,8 +1,6 @@
 ---
 title: Demo-inlägg
 date: 2024-04-03T18:41:00+02:00
-params.author.name: Elias Olofsson
-params.author: Elias
 description: Detta är ett test av funtionaliteten av blogginlägg.
 ---
 Detta är lite brödtext.
