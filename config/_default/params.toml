@@ -5,9 +5,9 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "avocado"     # "congo" (default), "avocado", "ocean", "fire", "slate"
-defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = true
+colorScheme = "fire"         # "congo" (default), "avocado", "ocean", "fire", "slate"
+defaultAppearance = "light"  # valid options: light or dark
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
@@ -52,14 +52,7 @@ showTableOfContents = false
 showTaxonomies = false
 showWordCount = false
 showComments = false
-# sharingLinks = [
-#     "facebook",
-#     "twitter",
-#     "pinterest",
-#     "reddit",
-#     "linkedin",
-#     "email",
-# ]
+sharingLinks = ["email", "facebook", "twitter", "linkedin", "reddit"]
 
 [list]
 showBreadcrumbs = false
