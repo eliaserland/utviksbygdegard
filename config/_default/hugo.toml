@@ -4,6 +4,7 @@
 
 baseURL = "https://utviksbygdegard.se/"
 defaultContentLanguage = "sv"
+languageCode = "sv"
 theme = "congo"
 
 enableRobotsTXT = true
