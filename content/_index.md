@@ -15,7 +15,7 @@ Bygdegårdsföreningen i Utvik värnar om hembygden kring Norafjärden och strä
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
     <span class="prose dark:prose-invert">Missa inte årets planerade aktiviteter.</span>
-    {{< button href="/kommande-evenemang" target="_self" >}}
+    {{< button href="/nyheter/program-2024" target="_self" >}}
     Program 2024
     {{< /button >}}
   </span>

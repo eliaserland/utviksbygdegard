@@ -1,7 +1,7 @@
 ---
 title: Kommande aktiviteter
 date: 2024-04-06T00:57:00+02:00
-draft: false
+draft: true
 description: Kommande aktiviteter vid bygdegården
 ---
 

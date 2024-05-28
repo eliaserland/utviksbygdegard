@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 date: 2022-01-11
-draft: false
+draft: true
 ---
 
 {{< lead >}}
