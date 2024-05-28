@@ -2,6 +2,7 @@
 title: Demo-inlägg
 date: 2024-04-27T18:00:00+02:00
 description: Detta är ett test av funtionaliteten av blogginlägg.
+draft: true
 ---
 
 Detta är ett exempel på ett nyhetsinlägg.
