@@ -1,6 +1,7 @@
 ---
 title: "Planerade aktiviteter 2024"
 date: 2024-05-28T21:22:16+02:00
+lastmod: 2024-08-13
 draft: false
 description: "Kommande aktiviteter och evenemang för 2024"
 feature: "*feature*"
@@ -29,9 +30,9 @@ Med fika.
 
 Start 13:00, alternativt 14:00. Efterföljande fika med smörgås och kaka, 50 kr/person.
 
-### 17/8 - Höstfest
+### 17/8 - Höstfesten
 
-Start 18:00. Buffé 125 kr/person inklusive 1 lott.
+Start 18:00. Buffé 150 kr/person inklusive 1 lott. Medtag egen dryck och gärna en vinst till lotteriet. Sista anmälningsdag är torsdag den 15:e augusti.
 
 ### 28/9 - Berättarstund om vår bygd
 
