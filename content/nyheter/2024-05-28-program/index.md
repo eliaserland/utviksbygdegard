@@ -1,7 +1,7 @@
 ---
 title: "Planerade aktiviteter 2024"
 date: 2024-05-28T21:22:16+02:00
-lastmod: 2024-08-13
+lastmod: 2024-08-17
 draft: false
 description: "Kommande aktiviteter och evenemang för 2024"
 feature: "*feature*"
@@ -34,9 +34,11 @@ Start 13:00, alternativt 14:00. Efterföljande fika med smörgås och kaka, 50 k
 
 Start 18:00. Buffé 150 kr/person inklusive 1 lott. Medtag egen dryck och gärna en vinst till lotteriet. Sista anmälningsdag är torsdag den 15:e augusti.
 
-### 28/9 - Berättarstund om vår bygd
+### 15/9 - Berättarstund om vår bygd
 
-Alternativt datum 29/9, vi återkommer om dag och tid.
+Berättarcafé med Per Sander från Länsstyrelsen som kommer att prata om Världsarvet Höga kusten.
+
+Start kl 14.00 på Utviks bygdegård. Kaffe med dopp till försäljning.
 
 ---
 
