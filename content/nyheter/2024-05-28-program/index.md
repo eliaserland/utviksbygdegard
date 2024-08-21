@@ -1,7 +1,7 @@
 ---
 title: "Planerade aktiviteter 2024"
 date: 2024-05-28T21:22:16+02:00
-lastmod: 2024-08-17
+lastmod: 2024-08-18
 draft: false
 description: "Kommande aktiviteter och evenemang för 2024"
 feature: "*feature*"
