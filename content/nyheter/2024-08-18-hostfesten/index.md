@@ -1,6 +1,7 @@
 ---
 title: "Höstfesten 2024"
 date: 2024-08-21T10:51:11+02:00
+lastMod: 2024-08-21
 draft: false
 description: "Sammanställning efter årets höstfest, samt information kring säsongens avslutande Berättarcafé."
 feature: "IMG_0869_crop.JPEG"

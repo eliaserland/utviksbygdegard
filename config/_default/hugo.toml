@@ -13,7 +13,7 @@ summaryLength = 0
 
 enableGitInfo = true
 [frontmatter]
-lastmod = ['lastmod', ':fileModTime', ':default']
+lastmod = ['lastmod', ':default']
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
