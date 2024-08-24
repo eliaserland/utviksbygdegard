@@ -31,10 +31,15 @@ weight = 10
 
 [[footer]]
 name = "Om oss"
-pageRef = "om-oss"
+pageRef = "foreningen"
 weight = 10
 
 [[footer]]
 name = "Kontakt"
 pageRef = "kontakt"
 weight = 20
+
+[[footer]]
+name = "Medlemskap"
+pageRef = "medlemskap"
+weight = 30

@@ -13,6 +13,7 @@ enableSearch = true
 enableCodeCopy = true
 enableImageLazyLoading = true
 enableImageWebp = true
+enableQuicklink = true
 
 mainSections = ["nyheter"] # collections to include in showRecent on homepage
 
@@ -46,13 +47,13 @@ showEdit = false
 editAppendPath = true
 showHeadingAnchors = true
 showPagination = true
-invertPagination = false
+invertPagination = true
 showReadingTime = false
 showTableOfContents = false
 showTaxonomies = false
 showWordCount = false
 showComments = false
-sharingLinks = ["email", "facebook", "twitter", "linkedin", "reddit"]
+sharingLinks = ["email", "facebook", "twitter", "linkedin"]
 
 [list]
 showBreadcrumbs = false
