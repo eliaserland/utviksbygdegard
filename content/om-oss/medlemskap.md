@@ -1,7 +1,7 @@
 ---
 title: "Medlemskap"
 date: 2024-08-24T12:00:00+02:00
-draft: false
+draft: true
 description: ""
 feature: "*feature*"
 ---

@@ -7,20 +7,16 @@ feature: "*feature*"
 ---
 
 {{< lead >}}
-Hur man kommer i kontakt med bygdegårdsföreningen.
+Kom i kontakt med bygdegårdsföreningen
 {{< /lead >}}
 
-- Kontakt
-  - Kontaktinfo
-  - Hitta hit
+## Kontaktinformation
 
-## Kontakt
+Om ni har frågor eller vill bli medlem, vänligen hör av er till ordförande Marianne Parswald på [070-3043490](tel:070-3043490) eller via <kontakt@utviksbygdegard.se>.
 
 ## Hitta hit
 
-{{< lead >}}
-Instruktioner för att hitta till Utviks bygdegård.
-{{< /lead >}}
+Bygdegårdsföreningen använder vanligen Utviks gamla skola som samlingslokal, belägen mellan byarna Utvik och Ry vid Norafjärden i Höga Kusten.
 
 Utviks bygdegård<br>
 Utvik 332<br>

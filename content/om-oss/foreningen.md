@@ -6,22 +6,26 @@ description: ""
 feature: "*feature*"
 ---
 
-## Historia
+<!-- ## Historia -->
 
-## Styrelsen 2024
+Medlemsantalet i August 2024 är 92 stycken.
 
-|                           |                               |
-| ------------------------- | ----------------------------- |
+Sittandes i årets styrelse presenteras i tabellen nedan.
+
+| Styrelse 2024             |                               |
+| :------------------------ | :---------------------------- |
 | Marianne Parswald         | ordförande                    |
-| Gunilla Zetterlund Nordin | kassör?                       |
+| Gunilla Zetterlund Nordin | kassör                        |
 | Eva Carlsson              | sekreterare                   |
 | Lennart Carlsson          | ledamot                       |
 | Britt-Marie Forslin       | ledamot                       |
 | Linda Nordlander          | ledamot                       |
 | Bengt Rödlund             | ledamot / fastighetsskötsel   |
 
-## Om denna webbsida
+---
 
-- Built with Hugo
-- Using the Congo theme
-- Hosted with Netlify
+### Om denna webbplats
+
+Webbansvarig är Elias Olofsson. Vid frågor vänd er till <kontakt@utviksbygdegard.se>.
+
+Denna webbplats byggs med [Hugo](https://gohugo.io/) och [Congo](https://github.com/jpanther/congo), samt tillhandahålls av [Netlify](https://www.netlify.com/).

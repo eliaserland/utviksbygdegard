@@ -39,7 +39,7 @@ name = "Kontakt"
 pageRef = "kontakt"
 weight = 20
 
-[[footer]]
-name = "Medlemskap"
-pageRef = "medlemskap"
-weight = 30
+# [[footer]]
+# name = "Medlemskap"
+# pageRef = "medlemskap"
+# weight = 30
