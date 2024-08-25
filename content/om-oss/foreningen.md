@@ -16,7 +16,7 @@ Allmän information kring bygdegårdsföreningen
 
 Medlemsantalet i August 2024 är 92 stycken.
 
-Årets styrelse presenteras i tabellen nedan.
+Styrelsen för verksamhetsår 2024/2025 presenteras i tabellen nedan.
 
 |                           |                               |
 | :------------------------ | :---------------------------- |
