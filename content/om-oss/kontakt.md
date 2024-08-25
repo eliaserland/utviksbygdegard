@@ -39,7 +39,7 @@ Utvik 332<br>
 </style>
 
 <div class="google-maps">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1821.5092447326754!2d17.971000177555126!3d62.83597452556818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4664bd38bd860a47%3A0x7a12ad4879437c71!2sUtvik%20332%2C%20872%2094%20Sand%C3%B6verken%2C%20Sverige!5e0!3m2!1ssv!2sde!4v1724588844882!5m2!1ssv!2sde"
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1821.5092447326754!2d17.971000177555126!3d62.83597452556818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4664bd38bd860a47%3A0x7a12ad4879437c71!2sUtvik%20332%2C%20872%2094%20Sand%C3%B6verken!5e0!3m2!1ssv!2sse!4v1724589568754!5m2!1ssv!2sse"
           width="600"
           height="450"
           style="border:0;"
