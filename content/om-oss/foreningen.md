@@ -6,13 +6,19 @@ description: ""
 feature: "*feature*"
 ---
 
+{{< lead >}}
+Allmän information kring bygdegårdsföreningen
+{{< /lead >}}
+
 <!-- ## Historia -->
+
+## Föreningsinformation
 
 Medlemsantalet i August 2024 är 92 stycken.
 
-Sittandes i årets styrelse presenteras i tabellen nedan.
+Årets styrelse presenteras i tabellen nedan.
 
-| Styrelse 2024             |                               |
+|                           |                               |
 | :------------------------ | :---------------------------- |
 | Marianne Parswald         | ordförande                    |
 | Gunilla Zetterlund Nordin | kassör                        |
@@ -24,7 +30,7 @@ Sittandes i årets styrelse presenteras i tabellen nedan.
 
 ---
 
-### Om denna webbplats
+## Om denna webbplats
 
 Webbansvarig är Elias Olofsson. Vid frågor vänd er till <kontakt@utviksbygdegard.se>.
 

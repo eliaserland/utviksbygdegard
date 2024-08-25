@@ -12,13 +12,13 @@ Kom i kontakt med bygdegårdsföreningen
 
 ## Kontaktinformation
 
-Om ni har frågor eller vill bli medlem, vänligen hör av er till ordförande Marianne Parswald på [070-3043490](tel:070-3043490) eller via <kontakt@utviksbygdegard.se>.
+Om ni har frågor eller vill bli medlem i föreningen, vänligen hör av er till ordförande Marianne Parswald på [070-3043490](tel:070-3043490) eller via e-post till <kontakt@utviksbygdegard.se>.
 
 ## Hitta hit
 
 Bygdegårdsföreningen använder vanligen Utviks gamla skola som samlingslokal, belägen mellan byarna Utvik och Ry vid Norafjärden i Höga Kusten.
 
-Utviks bygdegård<br>
+Utviks Bygdegård<br>
 Utvik 332<br>
 872 94 Sandöverken
 

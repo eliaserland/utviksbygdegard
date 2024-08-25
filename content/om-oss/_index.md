@@ -3,7 +3,7 @@ title: Om oss
 description: Allmän information och historia kring bygdegårdsföreningen.
 groupByYear: false
 cascade:
-  showDate: true
+  showDate: false
   showDateUpdated: true
   showPagination: true
   sharingLinks: false
