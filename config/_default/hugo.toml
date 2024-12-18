@@ -8,10 +8,13 @@ languageCode = "sv"
 theme = "congo"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 
 enableGitInfo = true
+
+[pagination]
+pagerSize = 10
+
 [frontmatter]
 lastmod = ['lastmod', ':default']
 
