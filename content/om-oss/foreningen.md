@@ -20,13 +20,13 @@ Styrelsen för verksamhetsår 2024/2025 presenteras i tabellen nedan.
 
 |                           |                               |
 | :------------------------ | :---------------------------- |
-| Marianne Parswald         | ordförande                    |
+| *Vakant*                  | ordförande                    |
+| Lennart Carlsson          | vice ordförance               |
+| Ewa Nässén Carlsson       | sekreterare                   |
 | Gunilla Zetterlund Nordin | kassör                        |
-| Eva Carlsson              | sekreterare                   |
-| Lennart Carlsson          | ledamot                       |
-| Britt-Marie Forslin       | ledamot                       |
-| Linda Nordlander          | ledamot                       |
-| Bengt Rödlund             | ledamot / fastighetsskötsel   |
+| Britt-Marie Forslin       | suppleant                     |
+| Linda Nordlander          | suppleant                     |
+| Bengt Rödlund             | suppleant / fastighetsskötsel |
 
 ---
 

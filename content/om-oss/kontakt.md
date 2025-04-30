@@ -12,7 +12,7 @@ Kom i kontakt med bygdegårdsföreningen
 
 ## Kontaktinformation
 
-Om ni har frågor eller vill bli medlem i föreningen, vänligen hör av er till ordförande Marianne Parswald på [070-304 34 90](tel:070-3043490) eller via e-post till <kontakt@utviksbygdegard.se>.
+Om ni har frågor eller vill bli medlem i föreningen, vänligen hör av er via e-post till <kontakt@utviksbygdegard.se>.
 
 ## Hitta hit
 
