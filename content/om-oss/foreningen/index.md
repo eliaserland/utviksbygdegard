@@ -23,9 +23,9 @@ Styrelsen för verksamhetsår 2025/2026 presenteras i tabellen nedan.
 | Lennart Carlsson          | vice ordförande               |
 | Marianne Olofsson         | sekreterare                   |
 | Gunilla Zetterlund Nordin | kassör                        |
-| Britt-Marie Forslin       | ledarmot                      |
-| Linda Nordlander          | ledarmot                      |
-| Bengt Rödlund             | ledarmot / fastighetsskötsel  |
+| Britt-Marie Forslin       | ledamot                      |
+| Linda Nordlander          | ledamot                      |
+| Bengt Rödlund             | ledamot / fastighetsskötsel  |
 | Ewa Carlsson              | fotograf                      |
 
 ![Styrelsen för verksamhetsår 2025/2026 samlad utanför Utviks gamla skola.](styrelsen2025.jpg "Styrelsen för verksamhetsår 2025/2026")
