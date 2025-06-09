@@ -17,35 +17,36 @@ Vi ser fram emot att få välkomna er till Utviks bygdegård!
 
 ---
 
-### Söndag 11 maj 2025 -- Årsmöte
+### Söndag 11 maj 2025 --- Årsmöte
 
 - Tid: 13:00
 - Plats: Utviks bygdegård
 - Föreningen bjuder på kaffe och smörgås.
 
-### Lördag 28 juni 2025 - Vandring längs Norrstigen (Preliminärt)
+### Lördag 28 juni 2025 --- Vandring längs Norrstigen
 
-- Tid: TBD
+- Tid: 11:00 vid Nordviksskolan, samling vid "Milstenen"
 - Plats: Start vid Nordviksskolan och avslut vid Utviks bygdegård
-- Kaffe och korv till försäljning.
+- Guide Peter Ramström.
+- Kaffe och korv till försäljning vid Utviks Gamla Skola.
 
-### Söndag 27 juli 2025 - Gudstjänst
+### Söndag 27 juli 2025 --- Gudstjänst
 
 - Tid: 11:00
 - Plats: Utviks bygdegård
 - Med efterföljande fika.
 
-### Lördag 16 augusti 2025 - Höstfest
+### Lördag 16 augusti 2025 --- Höstfest
 
 - Tid: 18:00
 - Plats: Utviks bygdegård
-- Buffé, mer information inom kort.
+- Buffé, mer information kommer senare.
 
-### Lördag 21 september 2025 - Berättarcafé
+### Lördag 20 september 2025 --- Berättarcafé
 
 - Tid: 14:00
 - Plats: Utviks bygdegård
-- Mer information inom kort.
+- Nordviks Sara Markström berättar om deras verksamhet.
 
 ---
 

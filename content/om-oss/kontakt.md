@@ -12,7 +12,7 @@ Kom i kontakt med bygdegårdsföreningen
 
 ## Kontaktinformation
 
-Om ni har frågor eller vill bli medlem i föreningen, vänligen hör av er via e-post till <kontakt@utviksbygdegard.se>.
+Om ni har frågor eller vill bli medlem i föreningen, vänligen hör av er till ordförande Kent Olofsson på [070-237 67 93](tel:+4670-2376793) eller via e-post till <kontakt@utviksbygdegard.se>.
 
 ## Hitta hit
 
