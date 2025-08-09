@@ -40,7 +40,7 @@ Vi ser fram emot att få välkomna er till Utviks bygdegård!
 
 - Tid: 18:00
 - Plats: Utviks bygdegård
-- Buffé, mer information kommer senare.
+- Buffé, sista anmälningsdag torsdag 14 augusti via e-post till <kontakt@utviksbygdegard.se>
 
 ### Lördag 20 september 2025 --- Berättarcafé
 
