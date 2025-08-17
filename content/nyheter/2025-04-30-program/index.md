@@ -46,7 +46,7 @@ Vi ser fram emot att få välkomna er till Utviks bygdegård!
 
 - Tid: 14:00
 - Plats: Utviks bygdegård
-- Nordviks Sara Markström berättar om deras verksamhet.
+- Nordviks Sara Marklund berättar om deras verksamhet.
 
 ---
 
