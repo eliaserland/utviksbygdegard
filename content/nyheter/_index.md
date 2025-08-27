@@ -1,8 +1,10 @@
 ---
 title: Nyheter
 description: Senaste inläggen och nyheterna från bygdegårdsföreningen.
+url: :slug
 cascade:
-  showPagination: true
+- showPagination: true
+- url: /:section/:slugorcontentbasename
 ---
 
 {{< lead >}}
