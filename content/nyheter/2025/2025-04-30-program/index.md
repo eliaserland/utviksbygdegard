@@ -1,6 +1,7 @@
 ---
 title: "Planerade aktiviteter 2025"
 date: 2025-04-30T18:16:27+02:00
+lastMod: 2025-08-17
 draft: false
 description: "Kommande aktiviteter och evenemang för 2025"
 cover: "forest.jpg"

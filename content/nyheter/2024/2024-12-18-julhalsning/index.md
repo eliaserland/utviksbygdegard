@@ -1,6 +1,7 @@
 ---
 title: "God Jul och Gott Nytt År"
 date: 2024-12-18T10:51:32+01:00
+lastMod: 2024-12-18
 draft: false
 description: "Julhälsning till föreningen"
 thumbnail: "ljus-kotte-crop.jpg"
